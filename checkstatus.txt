@@ -28,3 +28,12 @@
  Pinging 192.168.2.19 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 192.168.2.19: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
  Pinging 192.168.2.20 with 32 bytes of data: Control-C
  Pinging 192.168.2.21 with 32 bytes of data: Control-C
+ Pinging 8.8.8.1 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 8.8.8.1: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+ Pinging 8.8.8.2 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 8.8.8.2: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+ Pinging 8.8.8.3 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 8.8.8.3: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+ Pinging 8.8.8.4 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 8.8.8.4: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+ Pinging 8.8.8.5 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 8.8.8.5: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+ Pinging 8.8.8.6 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 8.8.8.6: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+ Pinging 8.8.8.7 with 32 bytes of data: Request timed out. Request timed out. Request timed out. Request timed out.  Ping statistics for 8.8.8.7: Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+ Pinging 8.8.8.8 with 32 bytes of data: Reply from 8.8.8.8: bytes=32 time=66ms TTL=114 Reply from 8.8.8.8: bytes=32 time=57ms TTL=114 Reply from 8.8.8.8: bytes=32 time=68ms TTL=114 Reply from 8.8.8.8: bytes=32 time=60ms TTL=114  Ping statistics for 8.8.8.8: Packets: Sent = 4, Received = 4, Lost = 0 (0% loss), Approximate round trip times in milli-seconds: Minimum = 57ms, Maximum = 68ms, Average = 62ms
+ Pinging 8.8.8.9 with 32 bytes of data: Request timed out.  Ping statistics for 8.8.8.9: Packets: Sent = 1, Received = 0, Lost = 1 (100% loss), Control-C
