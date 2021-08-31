@@ -1,0 +1,413 @@
+31/08/2021 21:26:20
+31/08/2021 21:26:27
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=74ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=64ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 74ms, Average = 63ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=66ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=54ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=61ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 52ms, Maximum = 66ms, Average = 58ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=137ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=81ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=60ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 60ms, Maximum = 137ms, Average = 92ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=72ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=70ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 72ms, Average = 64ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=54ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=42ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 42ms, Maximum = 54ms, Average = 48ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=88ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=72ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=64ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 52ms, Maximum = 88ms, Average = 69ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=91ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=130ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=51ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 130ms, Average = 81ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=135ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=101ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=62ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 62ms, Maximum = 135ms, Average = 99ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=150ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 3, Received = 2, Lost = 1 (33% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 150ms, Average = 102ms
+Control-C
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=72ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=80ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 80ms, Average = 67ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=94ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=89ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 94ms, Average = 77ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=74ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=69ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 74ms, Average = 64ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=92ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=51ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 92ms, Average = 64ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 50ms, Average = 49ms
+IP address must be specified.
+IP address must be specified.
+IP address must be specified.
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=74ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=53ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 45ms, Maximum = 74ms, Average = 55ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=333ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 52ms, Maximum = 333ms, Average = 124ms
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 57ms, Average = 52ms
+Control-C
+Ping request could not find host .8.8.8.8[D[D[D[D[D[D[[. Please check the name and try again.
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=87ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=79ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=66ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=78ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=101ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=84ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=51ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=65ms TTL=114
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=72ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=78ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=79ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=62ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=54ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=67ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=131ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=153ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=189ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=202ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=60ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=53ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=60ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=53ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=44ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=65ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=155ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=71ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=62ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=66ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=65ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=54ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=92ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=105ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=62ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=65ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=67ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=73ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=64ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=60ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=67ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=64ms TTL=114
+Request timed out.
+Reply from 8.8.8.8: bytes=32 time=98ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=158ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=76ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=49ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=45ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=67ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=60ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=52ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=97ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=73ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=56ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=58ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 212, Received = 209, Lost = 3 (1% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 44ms, Maximum = 202ms, Average = 58ms
+Control-C
